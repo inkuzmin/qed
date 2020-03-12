@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Limit Submissions
 permalink: /limit_submissions/tos
 ---
