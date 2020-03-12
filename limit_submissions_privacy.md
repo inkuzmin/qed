@@ -6,7 +6,7 @@ permalink: /limit_submissions/privacy
 
 # What information do we collect?
 
-The add-on is able to access to your email and can read and write all your forms.
+The add-on is able to access your email and can read and write all your forms.
 
 # How do you use the information?
 
